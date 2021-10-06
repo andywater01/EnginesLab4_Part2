@@ -1,1 +1,2 @@
 NativePlugin-unity
+I followed what we did in class to make a simpleton and did the same thing for health. I set it to show in text over top of the button. Everytime the button is clicked it lowers the health and swithces scenes. Next, I implemented an observer to play a sound whenever the left mouse button is clicked which plays a sound. I used the refference code given to us and modified it to work with my lab. I used a few different classes to set up the observer Action and then invoked "clicked" which causes a PlayAudio function to be called.
